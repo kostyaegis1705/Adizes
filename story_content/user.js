@@ -2,55 +2,55 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6l0XCqOwh6G":
+      case "6nEGZ1YSBC2":
         Script1();
         break;
-      case "6RlIuZyE6ba":
+      case "6S0GNOMSvcE":
         Script2();
         break;
-      case "5Z4PJQ5I4Jj":
+      case "5hai1EtTWXB":
         Script3();
         break;
-      case "6FJaJSocypW":
+      case "6cb0d39Sv3E":
         Script4();
         break;
-      case "6mNbnOlJf3D":
+      case "6kw8g6955eS":
         Script5();
         break;
-      case "5h76mgk6LzD":
+      case "6JLD9MXsZea":
         Script6();
         break;
-      case "68xtvUyyN7a":
+      case "5i68DV7M75a":
         Script7();
         break;
-      case "6aGKfIKoO24":
+      case "5lTXsXkf3C3":
         Script8();
         break;
-      case "6RYbO9yip0E":
+      case "6DMkFm1faGC":
         Script9();
         break;
-      case "5eMV2q44DuH":
+      case "5nEUzaOyV82":
         Script10();
         break;
-      case "6MIsMgVKgVv":
+      case "6SL9VH01SJs":
         Script11();
         break;
-      case "6awceBHERJv":
+      case "6IinaEK8cKH":
         Script12();
         break;
-      case "6EPha0DaFQ5":
+      case "6UhOQIp5ZLv":
         Script13();
         break;
-      case "6elStDXYVC0":
+      case "6QNyMbwijCZ":
         Script14();
         break;
-      case "5j5xexqyGAB":
+      case "6fIT8Ai50co":
         Script15();
         break;
-      case "5YTK270Z5jQ":
+      case "6cDFBBYoXc9":
         Script16();
         break;
-      case "6pP8MStbLkP":
+      case "63kSGE55hrX":
         Script17();
         break;
   }
@@ -609,7 +609,7 @@ player.SetVar("Title", title);
 
 function Script17()
 {
-  / Получаем доступ к API Storyline
+  // Получаем доступ к API Storyline
 var player = GetPlayer();
 
 // Получаем текущее значение ResultString
